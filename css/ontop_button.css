@@ -11,10 +11,10 @@
     background-color: #1F2833; 
     color: white; 
     cursor: pointer; 
-    padding: 15px; 
+    padding: 10px; 
     border-radius: 10px;
-    font-size: 30px; 
-    width: 70px;
+    font-size: 20px;
+    width: 50px;
 }
   
 #myBtn:hover{
