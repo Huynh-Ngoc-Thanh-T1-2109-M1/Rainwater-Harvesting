@@ -1,3 +1,11 @@
+/* Website logo */
+#logo{
+    float: left;
+    line-height: 70px;
+    padding-left: 60px;
+}
+
+/* Footer */
 .footer p{
     background: #1F2833;
     text-align: center;
@@ -16,12 +24,6 @@
     content: '';
     clear: both;
     display: table;
-}
-
-#logo{
-    float: left;
-    line-height: 70px;
-    padding-left: 60px;
 }
 
 .footer nav ul{
@@ -87,6 +89,7 @@
     line-height: 50px;
 }
 
+/* Contact information */
 .contact{
     background: #1F2833;
     padding-bottom: 10px;

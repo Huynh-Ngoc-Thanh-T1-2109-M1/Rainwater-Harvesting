@@ -1,3 +1,4 @@
+/* Website font */
 *{
     margin: 0;
     padding: 0;
@@ -5,10 +6,19 @@
     font-family: 'Poppins', sans-serif;
 }
 
+/* Website background color */
 body{
     background: #f2f2f2;
 }
 
+/* Website logo */
+#logo{
+    float: left;
+    line-height: 70px;
+    padding-left: 60px;
+}
+
+/* Navbar */
 .header nav{
     background: #1F2833;
 }
@@ -17,12 +27,6 @@ body{
     content: '';
     clear: both;
     display: table;
-}
-
-#logo{
-    float: left;
-    line-height: 70px;
-    padding-left: 60px;
 }
 
 .header nav ul{

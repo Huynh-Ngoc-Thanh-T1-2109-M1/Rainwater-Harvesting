@@ -5,6 +5,8 @@
     font-family: 'Poppins', sans-serif;
 }
 
+/* Contact section */
+
 .contact{
     background-color: white;
     min-height: 100vh;
@@ -16,6 +18,8 @@
     background: url(contact_us_background.jpg);
     background-size: cover;
 }
+
+/* Contact content */
 
 .contact .content{
     font-size: 36px;
@@ -35,6 +39,8 @@
     align-items: center;
     margin-top: 30px;
 }
+
+/* Contact info */
 
 .container .contactInfo{
     width: 50%;
@@ -73,6 +79,8 @@
     font-weight: 500;
     color: #00bcd4;
 }
+
+/* Contact form */
 
 .contactForm{
     width: 40%;
@@ -131,6 +139,8 @@
     padding: 10px;
     font-size: 18px;
 }
+
+/* Adjust based on browser width */
 
 @media (max-width: 991px){
     .contact{
