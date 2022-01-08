@@ -20,9 +20,9 @@ Project title: Rainwater Harvesting
          
 # Github report link:
 
-eProject published at: https://aditerx.github.io/Rainwater-Harvesting/
+eProject published at: https://huynh-ngoc-thanh-t1-2109-m1.github.io/Rainwater-Harvesting/
 
-eProject report link at: https://github.com/Aditerx/Rainwater-Harvesting/tree/Web/report
+eProject report link at: https://github.com/Huynh-Ngoc-Thanh-T1-2109-M1/Rainwater-Harvesting/tree/master/report
 
 #
 
